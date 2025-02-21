@@ -5,7 +5,11 @@ node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
+build/
+.DS_Store
+package-lock.json
 web-build/
 expo-env.d.ts
 
